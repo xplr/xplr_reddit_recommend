@@ -24,7 +24,7 @@ function populateRecommendedBox(reddits) {
 
 function fetchRecommendedReddits() {
 
-  var reddit = window.location.pathname.split('/')[2];
+  var reddit = window.location.pathname.split('/')[2].toLowerCase();
 
   GM_xmlhttpRequest({
     method: "GET",
