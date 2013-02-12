@@ -13,8 +13,8 @@ More info about XPLR: [https://xplr.com](https://xplr.com)
 
 ### Layout
 
-![Layout](http://github.com/xplr/xplr_reddit_recommend/master/raw/screenshots/xplr_recommend_layout.png)
+![Layout](http://raw.github.com/xplr/xplr_reddit_recommend/master/screenshots/xplr_recommend_layout.png)
 
 ### Box
 
-![Box](http://github.com/xplr/xplr_reddit_recommend/master/raw/screenshots/xplr_recommend_box.png)
+![Box](http://raw.github.com/xplr/xplr_reddit_recommend/master/screenshots/xplr_recommend_box.png)
